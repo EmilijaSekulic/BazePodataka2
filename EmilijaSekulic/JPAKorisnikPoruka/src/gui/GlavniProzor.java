@@ -39,7 +39,7 @@ public class GlavniProzor {
 	 */
 	private void initialize() {
 		frmPanelZaPoruke = new JFrame();
-		frmPanelZaPoruke.setTitle("Panel za poruke");
+		frmPanelZaPoruke.setTitle("Glavni prozor");
 		frmPanelZaPoruke.setBounds(100, 100, 450, 300);
 		frmPanelZaPoruke.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frmPanelZaPoruke.getContentPane().setLayout(null);
